@@ -1,9 +1,9 @@
 
 class calverge < Formula
   homepage "https://github.com/lgastler/calverge-cli"
-  url "https://github.com/lgastler/calverge-cli/releases/download/v0.1.0/calverge-0.1.0-macos.tar.gz"
-  sha256 "eb9c35d535f9bc296d13380bc2f3a1b0ca11cf277cdd26a443e6166385cf0ca9"
-  version "0.1.0"
+  url "https://github.com/lgastler/calverge-cli/releases/download/v0.1.2/calverge-0.1.2-macos.tar.gz"
+  sha256 "e522a48c48bed406f390df322f48f1f635c1ed9f3e1388903a7cd847e0375761"
+  version "0.1.2"
 
   def install
     bin.install "calverge"
